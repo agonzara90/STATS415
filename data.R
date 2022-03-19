@@ -79,3 +79,5 @@ data17 <- merge(x=data17,y=tchol17,by="SEQN",all.x=TRUE)
 data17 <- merge(x=data17,y=smq17,by="SEQN",all.x=TRUE)
 
 rm(demo17, bmx17, bpx17,tchol17,dr1tot17,smq17)
+#aaa
+
